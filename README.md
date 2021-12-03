@@ -6,31 +6,13 @@ Os dashboards aqui apresentados foram desenvolvidos com Microsoft Power BI utili
 O Microsoft Power BI é um serviço de análise de negócios que proporciona uma visão única de seus dados corporativos, com a capacidade de monitorar a integridade dos negócios usando dashboards dinâmicos, criar relatórios interativos sofisticados e acessar dados em qualquer lugar, em seus dispositivos móveis. O Power BI permite que você projete uma variedade de relatórios atraentes e poderosos que podem ser usados para contar histórias controladas por dados e para ajudar na tomada de decisões em todos os níveis organizacionais.
 
 ### Dashboard com dados do banco de dados de exemplo Contoso.
-Para abrir o dashboard em seu navegador [clique aqui.](https://lnkd.in/d3Y8JDN) Também, tenho um vídeo curto no YouTube explorando todas as páginas do relatório, [clique aqui.](https://youtu.be/lCsxmK0JwZM)
-![](https://github.com/flavioclobo/flavioclobo/blob/main/Contoso%20(Spark).png)
+Para abrir o dashboard em seu navegador [clique aqui.](https://app.powerbi.com/view?r=eyJrIjoiYjE2OTMwMjUtYTQyNC00M2MyLWI2ZmMtYWU3ZWM4YjA4YjY3IiwidCI6IjQ1MWU1NjVkLTZjMzMtNDU4MS05ZDUyLWE1MzUwZDY2OTU0MiJ9) Também, tenho um vídeo curto no YouTube explorando todas as páginas do relatório, [clique aqui.](https://youtu.be/lCsxmK0JwZM)
+![](images/Contoso_spark_mini.png)
 
 ### Dashboard com dados do banco de dados de exemplo AdventureWorks.
-Para abrir o dashboard em seu navegador [clique aqui](https://lnkd.in/d78ZmSY) Também, tenho um vídeo curto no YouTube explorando todas as páginas do relatório, [clique aqui.](https://youtu.be/8KQwt4jnyk8)
-![](https://github.com/flavioclobo/flavioclobo/blob/main/Adventure%20Works%20(dark).jpg)
+Para abrir o dashboard em seu navegador [clique aqui](https://app.powerbi.com/view?r=eyJrIjoiMzM5MjM3MWMtOTU3NS00MmFiLTk4Y2YtOGM5MjQ5ZDliZDMyIiwidCI6IjQ1MWU1NjVkLTZjMzMtNDU4MS05ZDUyLWE1MzUwZDY2OTU0MiJ9) Também, tenho um vídeo curto no YouTube explorando todas as páginas do relatório, [clique aqui.](https://youtu.be/8KQwt4jnyk8)
+![](images/AdventureWorks_dark_mini.png)
 
 ### Dashboard com dados do banco de dados de exemplo NorthWind.
-Para abrir o dashboard em seu navegador [clique aqui](https://lnkd.in/dBwZsvQw</p>) Também, tenho um vídeo curto no YouTube explorando todas as páginas do relatório, [clique aqui.](https://youtu.be/uZvZppbMRIk)
-![](https://github.com/flavioclobo/flavioclobo/blob/main/thumbnail_NorthWind_green.png)
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+Para abrir o dashboard em seu navegador [clique aqui](https://app.powerbi.com/view?r=eyJrIjoiMTEyZDc0ZGQtNWE2Mi00MmU4LTg3MmQtYjYwZTk5YjAwNTlhIiwidCI6IjQ1MWU1NjVkLTZjMzMtNDU4MS05ZDUyLWE1MzUwZDY2OTU0MiJ9) Também, tenho um vídeo curto no YouTube explorando todas as páginas do relatório, [clique aqui.](https://youtu.be/uZvZppbMRIk)
+![](images/NorthWind_green_mini.png)
