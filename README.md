@@ -1,12 +1,21 @@
-## Welcome to GitHub Pages
+# Portifólio de [Flavio Lobo](https://www.linkedin.com/in/flavioclobo)
 
-You can use the [editor on GitHub](https://github.com/flavioclobo/portifolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Dashboards em Power BI desenvolvido por [Flavio Lobo](https://www.linkedin.com/in/flavioclobo)
+Os dashboards aqui apresentados foram desenvolvidos com Microsoft Power BI utilizando dados fictícios, com bancos de dados de exemplo fornecidos gratuitamente pela Microsoft no [GitHub](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases), respeitando assim a LGPD (Lei Geral de Proteção de Dados Pessoais, Lei Nº 13.709 de 14 de Agosto de 2018). O intuito desta página é demonstrar minhas habilidades em ETL (extrair, transformar e carregar), praticar a análise exploratória dos dados, criar medidas (ou métricas) relevantes com DAX, e finalmente apresentar os dados de forma atrativa e eficiente para a tomada de decisão baseada em insights através dos dados.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+O Microsoft Power BI é um serviço de análise de negócios que proporciona uma visão única de seus dados corporativos, com a capacidade de monitorar a integridade dos negócios usando dashboards dinâmicos, criar relatórios interativos sofisticados e acessar dados em qualquer lugar, em seus dispositivos móveis. O Power BI permite que você projete uma variedade de relatórios atraentes e poderosos que podem ser usados para contar histórias controladas por dados e para ajudar na tomada de decisões em todos os níveis organizacionais.
 
-### Markdown
+### Dashboard com dados do banco de dados de exemplo Contoso.
+Para abrir o dashboard em seu navegador [clique aqui.](https://lnkd.in/d3Y8JDN) Também, tenho um vídeo curto no YouTube explorando todas as páginas do relatório, [clique aqui.](https://youtu.be/lCsxmK0JwZM)
+![](https://github.com/flavioclobo/flavioclobo/blob/main/Contoso%20(Spark).png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Dashboard com dados do banco de dados de exemplo AdventureWorks.
+Para abrir o dashboard em seu navegador [clique aqui](https://lnkd.in/d78ZmSY) Também, tenho um vídeo curto no YouTube explorando todas as páginas do relatório, [clique aqui.](https://youtu.be/8KQwt4jnyk8)
+![](https://github.com/flavioclobo/flavioclobo/blob/main/Adventure%20Works%20(dark).jpg)
+
+### Dashboard com dados do banco de dados de exemplo NorthWind.
+Para abrir o dashboard em seu navegador [clique aqui](https://lnkd.in/dBwZsvQw</p>) Também, tenho um vídeo curto no YouTube explorando todas as páginas do relatório, [clique aqui.](https://youtu.be/uZvZppbMRIk)
+![](https://github.com/flavioclobo/flavioclobo/blob/main/thumbnail_NorthWind_green.png)
 
 ```markdown
 Syntax highlighted code block
@@ -25,17 +34,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/flavioclobo/portifolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-# Portfólio de Dashboards em Power BI desenvolvido por [Flavio Lobo](https://www.linkedin.com/in/flavioclobo)
-Dashboard com dados do banco de dados de exemplo Contoso: [https://lnkd.in/d3Y8JDN](https://lnkd.in/d3Y8JDN)
-![](https://github.com/flavioclobo/flavioclobo/blob/main/Contoso%20(Spark).png)
