@@ -13,7 +13,7 @@ Quais são os produtos que mais receberam descontos? Estes descontos contribuír
 
 O produto certo, o lugar certo e a hora certa contribuem sensivelmente para impulsionar as vendas e a margem, enquanto otimizam o estoque para maximizar o desempenho. Se revisar o desempenho do varejo, analisar oportunidades, avaliar as necessidades de estoque por meio de previsões e relatórios é possível alavancar as vendas e alcançar as metas. Tenho um vídeo curto no YouTube explorando todas as páginas do relatório, [clique aqui.](https://youtu.be/lCsxmK0JwZM)
 
-![](images/Contoso_spark_mini.png)
+[![Contoso](images/Contoso_spark_mini.png)](https://app.powerbi.com/view?r=eyJrIjoiYjE2OTMwMjUtYTQyNC00M2MyLWI2ZmMtYWU3ZWM4YjA4YjY3IiwidCI6IjQ1MWU1NjVkLTZjMzMtNDU4MS05ZDUyLWE1MzUwZDY2OTU0MiJ9)
 
 
 ### Dashboard com dados do banco de dados de exemplo AdventureWorks.
@@ -23,7 +23,7 @@ Imagine que você é um gestor da distribuidora AdventureWorks, e recebe relató
  
 Dentro desse contexto, agora abra o dasboard abaixo e tire suas conclusões sobre o que uma solução de businessintelligence (BI) pode entregar. O upgrade em suas análises gerenciais e em sua capacidade de tomar decisões baseado em Analytics será nítido. Tenho um vídeo curto no YouTube explorando todas as páginas do relatório, [clique aqui.](https://youtu.be/8KQwt4jnyk8)
 
-![](images/AdventureWorks_dark_mini.png)
+[![AventureWorks](images/AdventureWorks_dark_mini.png)](https://app.powerbi.com/view?r=eyJrIjoiMzM5MjM3MWMtOTU3NS00MmFiLTk4Y2YtOGM5MjQ5ZDliZDMyIiwidCI6IjQ1MWU1NjVkLTZjMzMtNDU4MS05ZDUyLWE1MzUwZDY2OTU0MiJ9)
 
 
 ### Dashboard com dados do banco de dados de exemplo NorthWind.
@@ -32,4 +32,4 @@ Para abrir o dashboard em seu navegador [clique aqui](https://app.powerbi.com/vi
 O relatório abaixo mostra de forma ágil e intuitiva muitas informações essenciais sobre o andamento das vendas. Isso facilita demais o controle das vendas, faturamento e os principais KPIs para facilitar a tomada de decisão e rever estratégias para obter melhores resultados em seus negócios. Com DataVisualization os gerentes têm acesso a informações que podem ajudá-los a fazer planos mais robustos e previsões precisas, ajudando-os em suas análises e a tomarem melhores decisões empresariais baseadas em dados reais e atualizados, e não apenas na experiência pessoal ou feeling.
 Tenho um vídeo curto no YouTube explorando todas as páginas deste relatório, [clique aqui.](https://youtu.be/uZvZppbMRIk)
 
-![](images/NorthWind_green_mini.png)
+[![NorthWind](images/NorthWind_green_mini.png)](https://app.powerbi.com/view?r=eyJrIjoiMTEyZDc0ZGQtNWE2Mi00MmU4LTg3MmQtYjYwZTk5YjAwNTlhIiwidCI6IjQ1MWU1NjVkLTZjMzMtNDU4MS05ZDUyLWE1MzUwZDY2OTU0MiJ9)
