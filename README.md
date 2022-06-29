@@ -43,6 +43,6 @@ Qual é a finalidade do painel:  O objetivo do painel é fornecer uma visão ger
 
 Quais são os principais insights do painel: Comparação entre vendas brutas e vendas líquidas, quantos clientes foram alcançados, quantos produtos diferentes foram vendidos, quantas unidades de produtos vendidos e finalmente o alcance geográfico com o número de cidades.
 
-Tenho um vídeo curto no YouTube explorando todas as páginas deste relatório, [clique aqui.](https://youtu.be/pluAEK6HNH4)
+Tenho um vídeo curto no YouTube explorando este relatório, [clique aqui.](https://youtu.be/pluAEK6HNH4)
 
 [![Wide World Importers](images/WWI.png)](https://app.powerbi.com/view?r=eyJrIjoiYmUxNDQxNDItYTYwYy00YWE3LThlNTctNjQ1OWY3OWM0NTMxIiwidCI6IjQ1MWU1NjVkLTZjMzMtNDU4MS05ZDUyLWE1MzUwZDY2OTU0MiJ9)
