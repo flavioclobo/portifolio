@@ -33,3 +33,15 @@ O relatório abaixo mostra de forma ágil e intuitiva muitas informações essen
 Tenho um vídeo curto no YouTube explorando todas as páginas deste relatório, [clique aqui.](https://youtu.be/uZvZppbMRIk)
 
 [![NorthWind](images/NorthWind_green_mini.png)](https://app.powerbi.com/view?r=eyJrIjoiMTEyZDc0ZGQtNWE2Mi00MmU4LTg3MmQtYjYwZTk5YjAwNTlhIiwidCI6IjQ1MWU1NjVkLTZjMzMtNDU4MS05ZDUyLWE1MzUwZDY2OTU0MiJ9)
+
+### Dashboard com dados do banco de dados de exemplo Wide World Importers.
+Para abrir o dashboard em seu navegador [clique aqui](https://app.powerbi.com/view?r=eyJrIjoiYmUxNDQxNDItYTYwYy00YWE3LThlNTctNjQ1OWY3OWM0NTMxIiwidCI6IjQ1MWU1NjVkLTZjMzMtNDU4MS05ZDUyLWE1MzUwZDY2OTU0MiJ9)
+
+Quem é o público do painel:  este painel foi criado como um relatório de nível executivo para mostrar os insights da performance de vendas de uma equipe. Como os usuários pretendidos são funcionários de nível gerencial, o painel apresenta insights de alto nível que permitem que os usuários verifiquem facilmente o desempenho de cada membro da equipe de vendas. Os usuários têm a opção adicional de mergulhar nas métricas por ano, identificando o progresso ao longo do tempo. 
+
+Qual é a finalidade do painel:  O objetivo do painel é fornecer uma visão geral de alto nível do desempenho das vendas ao longo do tempo. Além disso, permite que os usuários mergulhem no desempenho por localização, região e grupo de clientes. Os usuários podem usar esses insights iniciais para determinar onde concentrar seus esforços. 
+Quais são os principais insights dos painéis: Comparação entre vendas brutas e vendas líquidas, quantos clientes foram alcançados, quantos produtos diferentes foram vendidos, quantas unidades de produtos vendidos e finalmente o alcance geográfico com o número de cidades.
+
+Tenho um vídeo curto no YouTube explorando todas as páginas deste relatório, [clique aqui.](https://youtu.be/uZvZppbMRIk)
+
+[![NorthWind](images/NorthWind_green_mini.png)](https://app.powerbi.com/view?r=eyJrIjoiYmUxNDQxNDItYTYwYy00YWE3LThlNTctNjQ1OWY3OWM0NTMxIiwidCI6IjQ1MWU1NjVkLTZjMzMtNDU4MS05ZDUyLWE1MzUwZDY2OTU0MiJ9)
