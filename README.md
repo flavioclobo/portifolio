@@ -41,8 +41,8 @@ Quem é o público do painel:  este painel foi criado como um relatório de nív
 
 Qual é a finalidade do painel:  O objetivo do painel é fornecer uma visão geral de alto nível do desempenho das vendas ao longo do tempo. Além disso, permite que os usuários mergulhem no desempenho por localização, região e grupo de clientes. Os usuários podem usar esses insights iniciais para determinar onde concentrar seus esforços. 
 
-Quais são os principais insights dos painéis: Comparação entre vendas brutas e vendas líquidas, quantos clientes foram alcançados, quantos produtos diferentes foram vendidos, quantas unidades de produtos vendidos e finalmente o alcance geográfico com o número de cidades.
+Quais são os principais insights do painel: Comparação entre vendas brutas e vendas líquidas, quantos clientes foram alcançados, quantos produtos diferentes foram vendidos, quantas unidades de produtos vendidos e finalmente o alcance geográfico com o número de cidades.
 
-Tenho um vídeo curto no YouTube explorando todas as páginas deste relatório, [clique aqui.](https://youtu.be/uZvZppbMRIk)
+Tenho um vídeo curto no YouTube explorando todas as páginas deste relatório, [clique aqui.](https://youtu.be/pluAEK6HNH4)
 
-[![NorthWind](images/NorthWind_green_mini.png)](https://app.powerbi.com/view?r=eyJrIjoiYmUxNDQxNDItYTYwYy00YWE3LThlNTctNjQ1OWY3OWM0NTMxIiwidCI6IjQ1MWU1NjVkLTZjMzMtNDU4MS05ZDUyLWE1MzUwZDY2OTU0MiJ9)
+[![Wide World Importers](images/WWI.png)](https://app.powerbi.com/view?r=eyJrIjoiYmUxNDQxNDItYTYwYy00YWE3LThlNTctNjQ1OWY3OWM0NTMxIiwidCI6IjQ1MWU1NjVkLTZjMzMtNDU4MS05ZDUyLWE1MzUwZDY2OTU0MiJ9)
